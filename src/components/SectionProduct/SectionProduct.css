@@ -7,7 +7,12 @@
     box-shadow: 0px 2px 6px 0px rgba(0,0,0,0.1);
 }
 
+.offer + .offer {
+    margin-top: 1rem;
+}
+
 .offer__cards {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap
 }
