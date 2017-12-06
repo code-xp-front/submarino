@@ -1,0 +1,11 @@
+.card-product {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1rem;
+    max-width: 200px;
+    border: 1px solid lightgray;
+    background: white;
+}
+
+.card-product__icon {
+    max-width: 100%;
+}

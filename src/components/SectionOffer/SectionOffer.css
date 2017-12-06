@@ -1,0 +1,13 @@
+.offer {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1280px;
+    padding: 3rem 2rem;
+    margin: 0 auto;
+    background: white;
+    box-shadow: 0px 2px 6px 0px rgba(0,0,0,0.1);
+}
+
+.offer__cards {
+    display: flex;
+    justify-content: space-between;
+}
