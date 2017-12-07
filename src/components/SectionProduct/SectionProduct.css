@@ -1,4 +1,4 @@
-.offer {
+.section-product {
     font-family: Arial, Helvetica, sans-serif;
     max-width: 1280px;
     padding: 3rem 2rem;
@@ -7,11 +7,11 @@
     box-shadow: 0px 2px 6px 0px rgba(0,0,0,0.1);
 }
 
-.offer + .offer {
+.section-product + .section-product {
     margin-top: 1rem;
 }
 
-.offer__cards {
+.section-product__cards {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap

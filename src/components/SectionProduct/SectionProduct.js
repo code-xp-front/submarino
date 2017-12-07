@@ -14,9 +14,9 @@ function cards(products) {
 }
 
 export default (props) => (
-    <section className="offer">
+    <section className="section-product">
         <h1>{props.title}</h1>
-        <div className="offer__cards">
+        <div className="section-product__cards">
             {cards(props.products)}
         </div>
     </section>

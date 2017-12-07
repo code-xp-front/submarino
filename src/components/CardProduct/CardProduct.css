@@ -6,6 +6,15 @@
     background: white;
 }
 
-.card-product__icon {
+.card-product__image {
     max-width: 100%;
+}
+
+.card-product__name {
+    color: #666666;
+}
+
+.card-product__price {
+    color: #00adef;
+    font-size: 1.3rem;
 }
